@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+  -webkit-margin-before: 0;
+  margin-block-start: 0;
+  -webkit-margin-after: 0;
+  margin-block-end: 0;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(/fonts/Montserrat-Bold.ttf);
+}
+header {
+  background-image: url("../adadasdf.svg/ad.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1024px;
+}
+.id {
+  margin-left: 126px;
+}
+ .id1 {
+  margin-left: 55px;
+  margin-top: 35px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.font {
+  margin-left: 91px;
+  margin-top: 21px;
+}
+.id2{
+  margin-top:35px ;
+  margin-left:42px ;
+}
+.id3{
+  margin-top: 35px;
+  margin-left: 28px;
+}
+.nav-link.id4{
+  background: #FFFFFF;
+  width: 150px;
+  height: 52px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  margin-top: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:26px;
+}
+.id5{
+  margin-top: 342px;
+  margin-top: 179px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 85px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.id6{
+  margin-top:40px ;
+  margin-left: 241px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 957px;
+  height: 29px;
+}
+.id7{
+  margin-left: 524px;
+  margin-top: 53px;
+}
+.id77{
+  margin-left: 42px;
+}
+.id88{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #5604AD;
+  padding: 13px 33px;
+  
+}
+.id89{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  text-decoration: none;
+  background: #FFFFFF;
+  padding: 13px 33px;
+
+}
+main{
+  background: linear-gradient(180deg, #060307 23.04%, #090A26 55.93%);
+  background-size: cover;
+min-Height:5055px;
+}
+.a{
+  color: #FFFFFF;
+ text-align: center;
+  padding-top: 124px; 
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+}
+
